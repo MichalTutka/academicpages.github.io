@@ -15,7 +15,7 @@ Education
 * B.S. in Biological Sciences, University of Illinois at Chicago, 2014
 
 
-Work experience
+Professional experience
 ======
  
 * Environmental Scientist, EPA Contractor	                                   Jun 2019–May 2021
