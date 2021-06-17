@@ -1,0 +1,20 @@
+---
+title: "Teaching Assistant: 123"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Oregon State University"
+date: 2021
+location: "Corvallis, OR"
+---
+
+This is a description of my teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
