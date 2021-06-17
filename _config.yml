@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "M. Tutka"
+title                    : "Michal Tutka"
 title_separator          : "-"
 name                     : &name "Michal Tutka"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hydrologist and pepper grower"
+  name             : "Hydrologist"
   avatar           : "pic of me.JPG "
   bio              : "Water Resources Engineering Graduate Program. Masters Student. This is me and my biography, changes done in config yml"
   location         : "Corvallis, Oregon"
