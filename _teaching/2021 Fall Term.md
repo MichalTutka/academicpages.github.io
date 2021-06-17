@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Oregon State University"
-date: 2021
+date: 2021-09-10
 location: "Corvallis, OR"
 ---
 
