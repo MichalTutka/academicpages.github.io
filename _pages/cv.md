@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Michal Tutka CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biological Sciences, University of Illinois at Chicago, 2014
+* M.S. in Water Resources Engineering, Oregon State University, 2023
 
 Work experience
 ======
