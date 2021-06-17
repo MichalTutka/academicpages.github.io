@@ -28,14 +28,14 @@ Consulting and oversight of CERCLA Superfund remediation projects in EPA Region 
   * Manage environmental samples; generate chains of custody and sample shipments for laboratory analyses.
 
 
-* Database Manager | Water Sampling Technician (Term Appt.)	Mar–Jun 2019
-* Ramboll US Corporation, Midwest Region, Site Solutions	     Chicago, IL
-* City of Chicago Department of Water Management (DWM) Waterfall Project:
-•	Developed, maintained, and managed MS Access databases including over 25,000 water filter registrations. 
-•	Designed, recorded, and executed macros to automate data entry inputs and reconcile data conflicts.
-•	Supervised seven warehouse employees (assigned tasks, managed timesheets, led health and safety meetings). 
-•	Confirmed water usage preconditions for in-home water quality sampling. Collected lead samples using established SOPs.
-QCed records, calibrated instruments, completed CoCs, and relinquished samples for laboratory analyses.
+Database Manager | Water Sampling Technician
+Ramboll US Corporation, Midwest Region, Site Solutions	     Chicago, IL
+City of Chicago Department of Water Management (DWM) Waterfall Project:
+  •	Developed, maintained, and managed MS Access databases including over 25,000 water filter registrations. 
+  •	Designed, recorded, and executed macros to automate data entry inputs and reconcile data conflicts.
+  •	Supervised seven warehouse employees (assigned tasks, managed timesheets, led health and safety meetings). 
+  •	Confirmed water usage preconditions for in-home water quality sampling. Collected lead samples using established SOPs.
+  •	QCed records, calibrated instruments, completed CoCs, and relinquished samples for laboratory analyses.
 
   
 Skills
