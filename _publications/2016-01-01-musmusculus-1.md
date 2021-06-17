@@ -13,4 +13,4 @@ citation: 'Sandra M Troxell-Smith, Michal J Tutka, Jessica Albergo, et al.. (201
 ---
 ...
 
-Recommended citation: Sandra M Troxell-Smith, Michal J Tutka, Jessica Albergo, et al.. (2015). "Foraging decisions in wild versus domestic Mus musculus: What does life in the lab select for?." <i>Journal 1</i>. 122(1).
+Sandra M Troxell-Smith, Michal J Tutka, Jessica Albergo, et al.. (2015). "Foraging decisions in wild versus domestic Mus musculus: What does life in the lab select for?." <i>Journal 1</i>. 122(1).
