@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michal Tutka"
+title                    : "M. Tutka"
 title_separator          : "-"
-name                     : &name "Hydrologist and Pepper Grower"
+name                     : &name "Michal Tutka"
 description              : &description "personal description"
 url                      : https://michaltutka.github.io/tutka_site.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
